@@ -1,0 +1,136 @@
+.caja-1
+{
+	position: relative;
+	left: 200px;
+}
+.caja-2
+{
+	position: absolute;
+	top: 5px;
+}
+.contenedor
+{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	top: 50px;
+}
+.cabecera
+{
+	background-color: darkred;
+	color: white;
+	text-align: center;
+	padding: 20px 0;
+}
+.caja-1
+{
+	position: relative;
+	left: 100px;
+	bottom:100xp;
+	top:100px ;
+}
+.caja-2
+{
+	position: relative;
+	left: 550px;
+	bottom: 500px;
+	top: -350px;
+}
+.caja-3
+{
+	position: relative;
+	left: 950px;
+	bottom:500px ;
+	top: -800px;
+}
+.caja-4
+{
+	position: relative;
+	left: 100px;
+	bottom:100xp ;
+	top: -600px;
+}
+.caja-5
+{
+	position: relative;
+	left: 550px;
+	bottom:200px;
+	top: -1060px;
+}
+.caja-6
+{
+	position: relative;
+	left: 950px;
+	bottom: 500px;
+	top: -1515px;
+}
+
+.caja-1
+{
+	position: relative;
+	left: 200px;
+}
+.caja-2
+{
+	position: absolute;
+	top: 5px;
+}
+.contenedor
+{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	top: 70px;
+}
+.cabecera
+{
+	background-color: darkred;
+	color: white;
+	text-align: center;
+	padding: 20px 0;
+}
+.caja-1
+{
+	position: relative;
+	left: 100px;
+	bottom:100xp;
+	top:60px ;
+	left: -80px;
+}
+.caja-2
+{
+	position: relative;
+	left: 550px;
+	bottom: 500px;
+	top: -350px;
+}
+.caja-3
+{
+	position: relative;
+	left: 950px;
+	bottom:500px ;
+	top: -800px;
+}
+
+
+.caja-1
+{
+	position: relative;
+	left: -140px;
+	bottom:100xp;
+	top:-818px ;
+}
+.caja-2
+{
+	position: relative;
+	left: 25px;
+	bottom: 500px;
+	top: -818px;
+}
+.caja-3
+{
+	position: relative;
+	left: 192px;
+	bottom:500px ;
+	top: -818px;
+}
